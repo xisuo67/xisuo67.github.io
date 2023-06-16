@@ -2,7 +2,7 @@
 - name: XHS.Spider颜值超高的数据采集工具
   gh_user: xisuo67
   repo: XHS-Spider
-  img: http://yfloves.cn/source/XHS-Spider.png
+  img: /images/XHS-Spider.png
 
 - name: 哔哩下载姬
   gh_user: leiurayer
