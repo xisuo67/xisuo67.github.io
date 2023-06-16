@@ -3,7 +3,7 @@ Jekyll 主题，基于 Uno-Theme，带有项目列表作为时间轴。
 
 [Jekyll-Uno with Projects as Timeline](https://github.com/tzuehlke/jekyll-uno-timeline)
 
-感谢[tzuehlke](https://github.com/tzuehlke)为开源做出的贡献
+感谢[tzuehlke](https://github.com/tzuehlke)作者为开源做出的贡献
 
 ## How does is look
 [Demo](https://www.zuehlke.cloud/)
