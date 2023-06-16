@@ -1,0 +1,33 @@
+# Site settings
+title: xisuo67
+description: 'xisuo67'
+url: 'https://xisuo67.github.io/'
+baseurl: ''
+profilepic: '/images/xisuo67.jpg'
+bkimage: '/images/background4.webp'
+google_analytics: ''
+font_awesome: '8203865b26.js'
+
+author:
+  name: 'xisuo67'
+  email: 392706283@qq.com
+  bilibili: 3493083607993010
+  github_username:  xisuo67
+
+# Build settings
+destination: _site
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+#plugins: ['jekyll-paginate']
+exclude: ['README.md', 'screenshot-overview.png']
