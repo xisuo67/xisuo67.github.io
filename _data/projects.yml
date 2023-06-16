@@ -1,0 +1,15 @@
+# projects section data
+- name: XHS.Spider颜值超高的数据采集工具
+  gh_user: xisuo67
+  repo: XHS-Spider
+  img: http://yfloves.cn/source/XHS-Spider.png
+
+- name: 哔哩下载姬
+  gh_user: leiurayer
+  repo: downkyi
+  img: https://s2.loli.net/2022/06/04/dOsqtfBXceRgrj2.png
+
+- name: Abp Vnext Pro
+  gh_user: WangJunZzz
+  repo: abp-vnext-pro
+  img: https://blog-resouce.oss-cn-shenzhen.aliyuncs.com/images/abp/06.jpg
