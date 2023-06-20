@@ -9,6 +9,11 @@
   repo: xisuo67.github.io
   img: /images/MyWebSite.png
   
+- name: XHS-Spider在线文档
+  gh_user: xisuo67
+  repo: XHS-Spider-Doc
+  img: /images/MyWebSite.png
+
 - name: 哔哩下载姬
   gh_user: leiurayer
   repo: downkyi
