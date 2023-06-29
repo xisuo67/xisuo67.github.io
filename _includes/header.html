@@ -8,7 +8,9 @@
 
     <div class="panel-main__inner panel-inverted">
     <div class="panel-main__content">
-      <img src="{{ site.baseurl }}{{ site.profilepic }}" class="user-image" alt="头像">
+      <a href="{{site.resume}}" title="@{{ site.author.name }} 简历" target="_blank">
+        <img src="{{ site.baseurl }}{{ site.profilepic }}" class="user-image" alt="头像">
+      </a>
       <h1 class="panel-cover__title panel-title">{{ site.title }}</h1>
         <hr class="panel-cover__divider">
         <p class="panel-cover__description">一个整天喜欢异想天开的程序员</p>
