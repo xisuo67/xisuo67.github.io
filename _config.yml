@@ -1,8 +1,8 @@
 # Site settings
 title: xisuo67
 description: 'xisuo67'
-url: 'https://xisuo67.website/'
-XhsSpiderDocUrl: '/XHS-Spider-Doc'
+url: 'https://xisuo67.website'
+XhsSpiderDocUrl: 'https://xisuo67.website/XHS-Spider-Doc/'
 baseurl: ''
 profilepic: '/images/xisuo67.jpg'
 bkimage: '/images/background4.webp'
