@@ -5,10 +5,10 @@ on:
     branches:
       - main
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "59 59 23 ? ?"
 
 jobs:
-  autogreen:
+  autoCheck:
     runs-on: ubuntu-latest
     steps:
       - name: Clone repository
